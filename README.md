@@ -1,21 +1,35 @@
-<center><b><font size=5>纵使长路漫漫，我也必将上下而求索。</font></b></center><br>
-<center><b><font size=5>欢迎你，探索家。这里是雪萌的世界。</font></b></center><hr>
+<center>
+    
+**纵使长路漫漫，我也必将上下而求索。
+欢迎你，探索家。这里是雪萌的世界。**
 
-> 由于之前好不容易打上去的内容被网络波动吞噬，因此我只在这里留下最主要的内容。<br>
-> 有空的时候会再次编辑。<br>
+</center>
 
-<font size=4><b>Ankh，一门全新的脚本语言。</b></font><br>
-```Ankh
-@info
-    AUTHOR SnowCutieOwO
-    DESCRIPTION {
-        Say hello to little Ankh fox!
-    }
-@script
-    REQUIREMENT {
-        check %player_name% SnowCutieOwO
-    }
-    ACTION {
-        message chat $target=self "一门全新的语言, Ankh!"
-    }
+> 时隔多年我已蜕变，奈何人去楼空往事不再。
+
+
+从 *The Librian Library* 到 *Furry Island* 和 *Plugin Big Travel* 和 *TGroup*，再到 *Continue Project*，这期间发生的事实在是太多太多。
+
+我甚至没有办法将其娓娓道来，我是亲历者，我也是沉湎其中的徘徊者。
+
+茫然的我在日复一日的焦虑中选择缓缓向前，即便不知道前方有何物，但是我心中所想之物在未来等我。
+
+* 目前正在进行：**Cotinue Project**(High Priority), **Docsify-Template**(High Priority)
+    * *更多项目见下方置顶仓库*
+* 联系方式：2210609731 (QQ), 2210609731@qq.com (邮箱)
+    * *其他联系方式见左侧资料卡*
+
+* Markup Languages: `.json`, `.html`, `.py`, `.toml`, `.yml`
+* Active Languages: `zh_CN` (Simplified Chinese), `en_US` (English (US))
+
+``` markdown
+<!-- resource:information -->
+resource-id: string
+supported-version: list
+native-version: string
+source-code: string
+donate-link: string
+contributors: string
+<!-- resource: description -->
+markdown text here...
 ```
