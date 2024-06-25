@@ -14,16 +14,20 @@
 
 茫然的我在日复一日的焦虑中选择缓缓向前，即便不知道前方有何物，但是我心中所想之物在未来等我。
 
+---
+
+
 * 目前正在进行：**Cotinue Project**(High Priority), **Docsify-Template**(High Priority)
     * *更多项目见下方置顶仓库*
 * 联系方式：2210609731 (QQ), 2210609731@qq.com (邮箱)
     * *其他联系方式见左侧资料卡*
 
-
+---
 
 * Markup Languages: `.json`, `.html`, `.py`, `.toml`, `.yml`
 * Active Languages: `zh_CN` (Simplified Chinese), `en_US` (English (US))
 
+---
 
 ``` markdown
 <!-- resource:information -->
