@@ -19,8 +19,11 @@
 * 联系方式：2210609731 (QQ), 2210609731@qq.com (邮箱)
     * *其他联系方式见左侧资料卡*
 
+
+
 * Markup Languages: `.json`, `.html`, `.py`, `.toml`, `.yml`
 * Active Languages: `zh_CN` (Simplified Chinese), `en_US` (English (US))
+
 
 ``` markdown
 <!-- resource:information -->
