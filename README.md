@@ -17,7 +17,7 @@
 ---
 
 
-* 目前正在进行：**Cotinue Project**(High Priority), **Docsify-Template**(High Priority)
+* 目前正在进行：**Cotinue Project**(High Priority)
     * *更多项目见下方置顶仓库*
 * 联系方式：2210609731 (QQ), 2210609731@qq.com (邮箱)
     * 更多联系方式：
