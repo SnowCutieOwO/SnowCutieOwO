@@ -16,6 +16,7 @@
 
 ---
 
+[![SnowCutieOwO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowCutieOwO)](https://github.com/anuraghazra/github-readme-stats)
 
 * 目前正在进行：**Cotinue Project**(High Priority)
     * *更多项目见下方置顶仓库*
