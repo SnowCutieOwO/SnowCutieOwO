@@ -1,7 +1,15 @@
 
+<center>
+
 **纵使长路漫漫，我也必将上下而求索。**
 
 **欢迎你，探索家。这里是雪萌的世界。**
+
+</center>
+
+[![奖杯！](https://github-profile-trophy.vercel.app/?username=SnowCutieOwO)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![SnowCutieOwO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowCutieOwO)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -15,8 +23,6 @@
 茫然的我在日复一日的焦虑中选择缓缓向前，即便不知道前方有何物，但是我心中所想之物在未来等我。
 
 ---
-
-[![SnowCutieOwO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowCutieOwO)](https://github.com/anuraghazra/github-readme-stats)
 
 * 目前正在进行：**Cotinue Project**(High Priority)
     * *更多项目见下方置顶仓库*
