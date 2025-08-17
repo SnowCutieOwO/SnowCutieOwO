@@ -1,15 +1,17 @@
 
-<center>
+<div align="center">
 
 **纵使长路漫漫，我也必将上下而求索。**
 
 **欢迎你，探索家。这里是雪萌的世界。**
 
-</center>
-
 [![奖杯！](https://github-profile-trophy.vercel.app/?username=SnowCutieOwO)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![SnowCutieOwO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowCutieOwO)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://img.shields.io/badge/@-Bilibili-fc8bab)](https://space.bilibili.com/57061727) [![](https://img.shields.io/badge/@-Modrinth-1BD96A)](https://modrinth.com/user/SnowCutieOwO) [![](https://img.shields.io/badge/@-爱发电-926BE5)](https://afdian.com/a/SnowCutieOwO) [![](https://img.shields.io/badge/@-SpigotMC-ed8106)](https://www.spigotmc.org/members/snowcutieowo.849243/) [![](https://img.shields.io/badge/@-BuiltByBit-2D87C3)](https://builtbybit.com/members/snowcutieowo.318559/)
+
+</div>
 
 ---
 
@@ -24,28 +26,7 @@
 
 ---
 
-* 目前正在进行：**Cotinue Project**(High Priority)
+* 目前正在维护：**Cotinue Project**（高优先级）
     * *更多项目见下方置顶仓库*
-* 联系方式：2210609731 (QQ), 2210609731@qq.com (邮箱)
-    * 更多联系方式：
-        * Modrinth：https://modrinth.com/user/SnowCutieOwO 
-    * *其他联系方式见左侧资料卡*
+* 联系方式：2210609731（QQ）, 2210609731@qq.com（邮箱）
 
----
-
-* Markup Languages: `.json`, `.html`, `.py`, `.toml`, `.yml`
-* Active Languages: `zh_CN` (Simplified Chinese), `en_US` (English (US))
-
----
-
-``` markdown
-<!-- resource:information -->
-resource-id: string
-supported-version: list
-native-version: string
-source-code: string
-donate-link: string
-contributors: string
-<!-- resource: description -->
-markdown text here...
-```
