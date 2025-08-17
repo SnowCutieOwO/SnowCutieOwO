@@ -9,7 +9,7 @@
 
 [![SnowCutieOwO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowCutieOwO)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://img.shields.io/badge/@-Bilibili-fc8bab)](https://space.bilibili.com/57061727) [![](https://img.shields.io/badge/@-Modrinth-1BD96A)](https://modrinth.com/user/SnowCutieOwO) [![](https://img.shields.io/badge/@-爱发电-926BE5)](https://afdian.com/a/SnowCutieOwO) [![](https://img.shields.io/badge/@-SpigotMC-ed8106)](https://www.spigotmc.org/members/snowcutieowo.849243/) [![](https://img.shields.io/badge/@-BuiltByBit-2D87C3)](https://builtbybit.com/members/snowcutieowo.318559/)
+[![](https://img.shields.io/badge/@-Bilibili-fc8bab)](https://space.bilibili.com/57061727) [![](https://img.shields.io/badge/@-Modrinth-1BD96A)](https://modrinth.com/user/SnowCutieOwO) [![](https://img.shields.io/badge/@-爱发电-926BE5)](https://afdian.com/a/SnowCutieOwO) [![](https://img.shields.io/badge/@-SpigotMC-ed8106)](https://www.spigotmc.org/members/snowcutieowo.849243/) [![](https://img.shields.io/badge/@-BuiltByBit-2D87C3)](https://builtbybit.com/members/snowcutieowo.318559/) [![](https://img.shields.io/badge/@-Polymart-059170)](https://polymart.org/user/2872/snowcutieowo)
 
 </div>
 
